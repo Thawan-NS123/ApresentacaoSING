@@ -1,0 +1,83 @@
+body{
+    background-image: url(../assets/image/Fundo.jpg);
+    background-repeat: no-repeat;
+} 
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background: rgb(182,44,2);
+    background: linear-gradient(90deg, rgba(182,44,2,1) 26%, rgba(255,61,0,1) 100%, rgba(252,89,40,1) 100%);
+    padding: 0.5em;
+}
+
+
+
+.ELEVANTUS,
+.Info{
+    font-family: 'Font-2';
+    font-size: 2em;
+    color: white;
+
+}
+
+.Info{
+    margin-right: 0.5em;
+}
+
+.ELEVANTUS{
+    margin-left: 1em;
+}
+
+
+img{
+    width: 5em;
+    margin-right: 1em;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-top: 3em;
+}
+
+
+.Seja_Bem-Vindo{
+    font-family: "Font-5";
+    font-size: 2.5em;
+    margin-bottom: 2em;
+    color: #fff;
+    background: fixed;
+}
+
+
+
+span{
+    font-family: 'Font-2';
+    margin-left: 0.2em;
+}
+  
+ul{
+    text-align: center;
+    list-style-type: none;
+
+    background-color: #fff;
+    border-radius: 1em;
+    padding: 2em;
+}
+
+li{
+    font-size: 1.5em;
+    font-family: 'Font-4';
+    margin-bottom: 1em;
+}
+
+
+
+
+  
